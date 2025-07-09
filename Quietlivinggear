@@ -1,1 +1,5 @@
 
+git remote add origin https://github.com/yourusername/quietlivinggear.git
+git add .
+git commit -m "Initial commit – because silence is golden"
+git push -u origin main
